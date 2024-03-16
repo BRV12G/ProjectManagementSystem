@@ -1,0 +1,93 @@
+body{
+	background-color: #355764; /*changes background color*/
+	padding: 20px; /*sets padding and margin to zero */
+	margin: 0px;
+}
+
+#home_page{
+	background-color: #D4F6CC;
+	top: 25vh;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 25vh;
+	width: 50vw;
+
+}
+
+#login_home_page{
+	background-color: #81CACF;
+	top: 25vh;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height:46vh;
+	width :50vw;
+}
+
+#register_home_page{
+	background-color: #81CACF;
+	top: 25vh;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 65vh;
+	width :50vw;
+}
+
+#header{
+	background-color: #81CACF;
+	height: 8vh;
+	width: 101vw;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 50px;
+}
+
+#logout_link{
+	text-decoration: none;
+	color: orange;
+}
+
+#left_sidebar{
+	margin-top: 50px;
+	width: 13vw;
+	height: 30vh;
+	display: inline-block;
+}
+
+
+#left_sidebar table tr{
+	background-color: #0096FF;
+	color: white;
+	font-size: 18px;
+
+}
+
+#left_sidebar table tr:hover{
+	background-color: #D4F6CC;
+	color: black;
+
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+
+#logout_link:hover{
+	background-color: #D4F6CC;
+	color: black;
+}
+
+.link{
+	text-decoration: none;
+	color: skyblue;
+}
+
+.link: hover{
+	color: black;
+}
+
+
